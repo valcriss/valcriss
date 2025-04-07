@@ -54,8 +54,8 @@ While my game projects aren't public (yet?), they play a huge part in my learnin
 ### 🧑‍🔧 Tech I Like
 
 - **Languages**: C#, JavaScript, TypeScript, Java, PHP, C++, Lua, Bash
-- **Frameworks**: Unity, .NET Core, MonoGame, Laravel, Quarkus, Yii, VueJs, React
-- **Tooling**: Docker, GitHub Actions, CI/CD, Jenkins, SonarQube, Tailwind, Event-Driven Architectures
+- **Frameworks**: Unity, .NET Core, MonoGame, Laravel, Quarkus, Angular, Yii, VueJs, React
+- **Tooling**: Docker, K8s, GitHub Actions, CI/CD, Jenkins, SonarQube, Tailwind, Event-Driven Architectures
 - **Mindset**: Security-first, performance-aware, and kid-approved 👧
 
 ---
