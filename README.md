@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniel Silvestre
 
-### 🧑‍💻 Full-Stack Dev | 🎮 Game Dev | 🛠️ Homebrew Tool Maker | ☁️ DevSecOps Enthusiast | 👨‍👧 Creative Dad
+### 🧑‍💻 Full-Stack Dev | 🎮 Game Dev | 🛠️ Tool Maker | ☁️ DevSecOps Enthusiast | 👨‍👧 Creative Dad
 
 ---
 
