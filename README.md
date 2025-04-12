@@ -32,6 +32,9 @@ While my game projects aren't public (yet?), they play a huge part in my learnin
 
 ### 🧪 Notable Public Repositories
 
+- [**Instantiate**](https://github.com/valcriss/Instantiate)
+  Instantiate is an automated on-demand environment builder that spins up full-stack containers for each merge request, enabling instant testing and validation across multiple project types.
+
 > I have a soft spot for game server emulation,  a bit of nostalgia, a lot of fun, and tons to learn from.
 
 - [**TrinityCore.GameClient.Net.Lib**](https://github.com/valcriss/TrinityCore.GameClient.Net.Lib)  
