@@ -67,7 +67,7 @@ While my game projects aren't public (yet?), they play a huge part in my learnin
 
 - 🌐 [asterie.eu](https://asterie.eu/)
 - 📍 Based in Tours, France
-- 💬 Bilingual: French 🇫🇷 + English 🇬🇧 (with plans for more thanks to Tolgee)
+- 💬 Multilingual : French 🇫🇷, English 🇬🇧 & Portuguese 🇵🇹
 
 ---
 
