@@ -32,10 +32,24 @@ While my game projects aren't public (yet?), they play a huge part in my learnin
 
 ### 🧪 Notable Public Repositories
 
-- [**Instantiate**](https://github.com/valcriss/Instantiate)  
-  Instantiate is an automated on-demand environment builder that spins up full-stack containers for each merge request, enabling instant testing and validation across multiple project types.
+> MVP status:
 
-> I have a soft spot for game server emulation,  a bit of nostalgia, a lot of fun, and tons to learn from.
+- [**Instantiate**](https://github.com/valcriss/Instantiate)  
+  Instantiate is an automated on-demand environment builder that spins up full-stack containers for each merge request.
+
+- [**Sync-Service**](https://github.com/valcriss/sync-service)  
+  SyncService is a client-server synchronization tool designed specifically for patching massive games.
+
+- [**TrinityCore 335 Docker**](https://github.com/valcriss/trinitycore-335-docker)    
+  A dockerized dev environment for TrinityCore 3.3.5,  spin up WoW servers with ease.
+
+- [**DelugeRPCClient.Net**](https://github.com/valcriss/DelugeRPCClient.Net)  
+  A .NET Core client for Deluge WebUI RPC,  yes, I like controlling torrents programmatically.
+
+- [**QuietQuest**](https://github.com/valcriss/QuietQuest)  
+  Mic monitoring, remote control, and penalties for noisy gamers.
+  
+> Work in progress:
 
 - [**TrinityCore.GameClient.Net.Lib**](https://github.com/valcriss/TrinityCore.GameClient.Net.Lib)  
   Connects a .NET client to a TrinityCore 3.3.5 server,  lets you log in and explore the world.
@@ -46,11 +60,7 @@ While my game projects aren't public (yet?), they play a huge part in my learnin
 - [**TrinityCore.Map.Net.IO**](https://github.com/valcriss/TrinityCore.Map.Net.IO)  
   Tools to handle map files from TrinityCore,  because why not reverse-engineer Azeroth?
 
-- [**trinitycore-335-docker**](https://github.com/valcriss/trinitycore-335-docker)  
-  A dockerized dev environment for TrinityCore 3.3.5,  spin up WoW servers with ease.
 
-- [**DelugeRPCClient.Net**](https://github.com/valcriss/DelugeRPCClient.Net)  
-  A .NET Core client for Deluge WebUI RPC,  yes, I like controlling torrents programmatically.
 
 ---
 
