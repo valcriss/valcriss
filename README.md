@@ -40,7 +40,7 @@ While my game projects aren't public (yet?), they play a huge part in my learnin
 - [**Sync-Service**](https://github.com/valcriss/sync-service)  
   SyncService is a client-server synchronization tool designed specifically for patching massive games.
 
-- [**TrinityCore Docker**](https://github.com/valcriss/trinitycore-docker)
+- [**TrinityCore Docker**](https://github.com/valcriss/trinitycore-docker)  
   A dockerized dev environment for TrinityCore 3.3.5, 4.4.2, and 11.1.0,  spin up WoW servers with ease.
 
 - [**DelugeRPCClient.Net**](https://github.com/valcriss/DelugeRPCClient.Net)  
