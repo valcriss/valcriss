@@ -40,8 +40,8 @@ While my game projects aren't public (yet?), they play a huge part in my learnin
 - [**Sync-Service**](https://github.com/valcriss/sync-service)  
   SyncService is a client-server synchronization tool designed specifically for patching massive games.
 
-- [**TrinityCore 335 Docker**](https://github.com/valcriss/trinitycore-335-docker)    
-  A dockerized dev environment for TrinityCore 3.3.5,  spin up WoW servers with ease.
+- [**TrinityCore Docker**](https://github.com/valcriss/trinitycore-docker)
+  A dockerized dev environment for TrinityCore 3.3.5, 4.4.2, and 11.1.0,  spin up WoW servers with ease.
 
 - [**DelugeRPCClient.Net**](https://github.com/valcriss/DelugeRPCClient.Net)  
   A .NET Core client for Deluge WebUI RPC,  yes, I like controlling torrents programmatically.
